@@ -20,7 +20,7 @@
 
 **Visualization**
 
-  * Implement a Streamlit application to allow users to explore and visualize bus route data, filter by attributes like price, star rating, and bus name, and provide analytical insights.
+  * Implement a Streamlit application to allow users to explore bus route data, filter by attributes like price, star rating, and bus name, and provide analytical insights.
 
 ## SKILL-TAKEAWAY
 * Python scripting,Selenium,Data Collection,Data Management using SQL,Streamlit
