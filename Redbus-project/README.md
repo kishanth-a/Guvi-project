@@ -94,4 +94,4 @@ The project consists of four key components:
   * Allow users to filter bus routes based on price, rating, and bus name using Streamlit’s interactive components.
 
 # Conclusion
-The "Redbus Data Scraping and Filtering with Streamlit Application" project offers a robust and scalable solution for automating the extraction, storage, and analysis of bus route data. By leveraging web scraping and visualization technologies, this project enables streamlined travel planning, market analysis, and data-driven decision-making within the transportation industry. The Streamlit app further enhances user experience, providing interactive and customizable data exploration tools.
+The "Redbus Data Scraping and Filtering with Streamlit Application" project offers a robust and scalable solution for automating the extraction, storage, and analysis of bus route data. By leveraging web scraping and OOPs technologies, this project enables streamlined travel planning, market analysis, and data-driven decision-making within the transportation industry. The Streamlit app further enhances user experience, providing interactive and user-friendly application.
