@@ -75,7 +75,7 @@ def gainers_losers():
 
 def powerbi_dashboard():
     st.subheader("Power BI Dashboard")
-    url = f"https://app.powerbi.com/groups/me/reports/cc63a53c-e16c-4171-8cc9-fba8965e0a5f?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=cda1afc8-ced3-41db-88ab-08ccc16d34a0"
+    url = f"https://app.powerbi.com/links/JUUxGPVWMq?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare" # It won't be visible as I don't have subscription
     st.markdown(f"[Click here to view the Power BI Dashboard]({url})")
 
 # Sidebar options
