@@ -14,6 +14,12 @@ This project develops a machine learning model that predicts household energy us
 
 ---
 
+## 📊 Dataset
+- **Source**: UCI Machine Learning Repository
+- **Description**: The dataset contains measurements of electric power consumption in one household over four years, sampled at one-minute intervals.
+
+---
+
 ## 📌 Features
 - **Energy Consumption Prediction**: Build accurate models to predict household energy usage.
 - **Actionable Insights**: Identify key factors influencing energy consumption patterns.
