@@ -77,7 +77,7 @@ The dataset contains **148,455 restaurant records** with the following key featu
 
 
 ## 🤝 Connect with Me
-💼 **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/kishanth-arunachalam/])  
+💼 **LinkedIn**: https://www.linkedin.com/in/kishanth-arunachalam/
 📧 **Email**: kishanth.kichoo@gmail.com  
 ---
 
