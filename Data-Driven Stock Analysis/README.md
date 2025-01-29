@@ -92,9 +92,12 @@ Screenshots of key visualizations: Attached as PPT File
 - **Power BI Dashboard**
 - **Streamlit App**
 
-## Author
-**Kishanth Arunachalam**  
-[GitHub Profile](https://github.com/kishanth-a)
+## 🤝 Connect with Me
+💼 **LinkedIn**: [Kishanth](https://www.linkedin.com/in/kishanth-arunachalam) 
+📧 **Email**: kishanth.kichoo@gmail.com  
+---
+
+If you found this project helpful, **give it a ⭐ on GitHub!** 😊
 
 ---
 Feel free to contribute to this project by submitting issues or pull requests.
