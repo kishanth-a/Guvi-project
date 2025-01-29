@@ -102,6 +102,15 @@ This project develops a machine learning model that predicts household energy us
 
 ---
 
+## 🤝 Connect with Me
+💼 **LinkedIn**: [Kishanth](https://www.linkedin.com/in/kishanth-arunachalam) 
+📧 **Email**: kishanth.kichoo@gmail.com  
+---
+
+If you found this project helpful, **give it a ⭐ on GitHub!** 😊
+
+---
+
 ## 👨‍💻 Author
 **Kishanth Arunachalam**
 
