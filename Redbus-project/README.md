@@ -95,3 +95,10 @@ The project consists of four key components:
 
 # Conclusion
 The "Redbus Data Scraping and Filtering with Streamlit Application" project offers a robust and scalable solution for automating the extraction, storage, and analysis of bus route data. By leveraging web scraping and OOPs technologies, this project enables streamlined travel planning, market analysis, and data-driven decision-making within the transportation industry. The Streamlit app further enhances user experience, providing interactive and user-friendly application.
+
+## 🤝 Connect with Me
+💼 **LinkedIn**: [Kishanth](https://www.linkedin.com/in/kishanth-arunachalam) 
+📧 **Email**: kishanth.kichoo@gmail.com  
+---
+
+If you found this project helpful, **give it a ⭐ on GitHub!** 😊
