@@ -109,8 +109,8 @@ Confidence: 95.3%
 
 ## 📢 Connect With Me
 📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kishanth-arunachalam)  
-📂 GitHub: [Your GitHub Profile](https://github.com/kishanth-a)  
+🔗 LinkedIn: [Kishanth Arunachalam](https://www.linkedin.com/in/kishanth-arunachalam)  
+📂 GitHub: [Kishanth_Arunachalam](https://github.com/kishanth-a)  
 
 Feel free to contribute, fork the repo, or submit issues! 🎯
 
