@@ -49,7 +49,7 @@ A **Streamlit application** was also developed to allow users to upload an image
 
 3. **Model Evaluation & Selection**
    - Compared **Accuracy, Precision, Recall, F1-score, and Confusion Matrix**.
-   - **Stored model performance in `all_model_performance.csv`**.
+   - **Stored model performance in `model_performance.csv`**.
    - **Saved only the best-performing model** based on highest accuracy & lowest loss.
 
 4. **Deployment with Streamlit**
