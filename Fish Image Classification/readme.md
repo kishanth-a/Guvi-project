@@ -66,7 +66,7 @@ A **Streamlit application** was also developed to allow users to upload an image
 
 ### **2️⃣ Transfer Learning Models**
 ✅ **Fine-tuned 5 pre-trained models**.
-✅ **VGG16 & ResNet50 performed the best**.
+✅ **MobileNet & InceptionV3 performed the best**.
 ✅ **EfficientNetB0 was the most lightweight** with good accuracy.
 
 ### **3️⃣ Best Model Selection**
@@ -101,7 +101,7 @@ Confidence: 95.3%
 
 ## 🏁 Conclusion
 ✅ **Achieved high accuracy on fish classification** using deep learning.
-✅ **Transfer Learning outperformed CNN from scratch**, especially **VGG16 & ResNet50**.
+✅ **Transfer Learning outperformed CNN from scratch**, especially **MobileNet & InceptionV3**.
 ✅ **Built a user-friendly web app** for easy classification.
 ✅ **Project is scalable** and can be extended for **real-world applications** like marine research and fisheries management.
 
@@ -109,8 +109,8 @@ Confidence: 95.3%
 
 ## 📢 Connect With Me
 📧 Email: your.email@example.com  
-🔗 LinkedIn: [Kishanth Arunachalam](https://www.linkedin.com/in/kishanth-arunachalam)  
-📂 GitHub: [Kishanth_Arunachalam](https://github.com/kishanth-a)  
+🔗 LinkedIn: [Kishanth](https://www.linkedin.com/in/kishanth-arunachalam)  
+📂 GitHub: [Kishanth](https://github.com/kishanth-a)  
 
 Feel free to contribute, fork the repo, or submit issues! 🎯
 
