@@ -108,7 +108,7 @@ Confidence: 95.3%
 ---
 
 ## 📢 Connect With Me
-📧 Email: your.email@example.com  
+📧 Email: kishanth.kichoo@gmail.com 
 🔗 LinkedIn: [Kishanth](https://www.linkedin.com/in/kishanth-arunachalam)  
 📂 GitHub: [Kishanth](https://github.com/kishanth-a)  
 
