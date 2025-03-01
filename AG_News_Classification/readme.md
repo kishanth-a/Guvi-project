@@ -55,3 +55,12 @@ This project focuses on classifying news articles into predefined categories usi
 This project demonstrates the power of fine-tuned transformer models in **automating text classification**. The solution is scalable, accurate, and applicable to various real-world NLP tasks. Future improvements could include multi-label classification, topic modeling, and real-time news streaming analysis.
 
 🚀 **Next Steps:** Optimize inference speed, integrate with larger datasets, and explore multilingual news classification.
+
+---
+
+## 📢 Connect With Me
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [Kishanth](https://www.linkedin.com/in/kishanth-arunachalam)  
+📂 GitHub: [Kishanth](https://github.com/kishanth-a)  
+
+Feel free to contribute, fork the repo, or submit issues! 🎯
