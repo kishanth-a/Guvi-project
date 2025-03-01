@@ -42,8 +42,7 @@ This project focuses on classifying news articles into predefined categories usi
   - Accuracy: **95%**
 
 ## 🎥 Project Demo
-🔗 [Live Demo](#) (If deployed)  
-📂 [GitHub Repository](#)
+🔗 [Live Demo](https://github.com/kishanth-a/Guvi-project/blob/main/AG_News_Classification/demo_video.mp4) 
 
 ## 💼 Business Use Case
 - **News Aggregators**: Automatically categorize news articles for users.
